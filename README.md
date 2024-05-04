@@ -1,1 +1,1 @@
-# operating_system_1st_lam-manual
+# sem2_operating_system_1st_lam-manual
