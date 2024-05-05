@@ -2,5 +2,6 @@
 
 # These are the following commands:
 
-# 1.ls: List all files and directories in the current directory.
+1.ls: List all files and directories in the current directory.
+
 
